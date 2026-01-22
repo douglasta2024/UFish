@@ -1,4 +1,4 @@
 # UFish
 Jupyter Notebook containing Computer Vision training for Fish Identification
 
-![images/comparison.png](Picture of Image Heatmap)
+![Heatmap Demonstrating How Computer Vision Model Detects Fish Species](images/comparison.png)
